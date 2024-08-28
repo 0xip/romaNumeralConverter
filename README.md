@@ -10,4 +10,4 @@ A simple web application that converts integers to Roman numerals, built as a pr
 
 
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
